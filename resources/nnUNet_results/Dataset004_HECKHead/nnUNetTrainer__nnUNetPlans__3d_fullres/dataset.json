@@ -1,0 +1,11 @@
+{
+    "channel_names": {
+        "0": "CT_norm"
+    },
+    "labels": {
+        "background": "0",
+        "Head": "1"
+    },
+    "numTraining": 471,
+    "file_ending": ".nii.gz"
+}

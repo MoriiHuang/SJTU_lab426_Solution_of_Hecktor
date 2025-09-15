@@ -1,0 +1,5 @@
+modality: CT                        # primary modality
+dataroot: /tmp/temp_dir/fine_input      # dataset location
+datalist: /opt/app/resources/monai/output_dir/dataset_split.json      # a list of filenames
+class_names: [tumor, lymph_node]    # names for tensorboard
+extra_modalities: {image2 : pet}    # a second modality

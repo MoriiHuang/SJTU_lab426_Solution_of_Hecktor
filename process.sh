@@ -1,0 +1,1 @@
+python /home/SSD-2T-2023/hcy/HECKTOR2025/HECKTOR2025_version4/process.py --input_dir /home/SSD-2T-2023/hcy/nnUNet_new/DATASET/nnUNet_raw/Task_test  --output_dir /home/SSD-2T-2023/hcy/nnUNet_new/DATASET/nnUNet_raw/Dataset011_HECKWindowFine  --save_froi 

@@ -1,0 +1,8 @@
+modality: CT
+dataroot: /home/hcy/nnUNet_new/DATASET/nnUNet_raw/Dataset006_HECKFine
+datalist: /opt/app/resources/monai/output_dir/dataset_split.json
+class_names:
+- tumor
+- lymph_node
+extra_modalities:
+  image2: pet

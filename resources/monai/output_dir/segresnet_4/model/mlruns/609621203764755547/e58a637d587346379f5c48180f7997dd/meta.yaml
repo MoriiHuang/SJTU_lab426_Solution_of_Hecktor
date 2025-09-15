@@ -1,0 +1,14 @@
+artifact_uri: /home/SSD-2T-2023/hcy/HECKTOR2025/monai/output_dir/segresnet_4/model/mlruns/609621203764755547/e58a637d587346379f5c48180f7997dd/artifacts
+end_time: 1755384859872
+entry_point_name: ''
+experiment_id: '609621203764755547'
+lifecycle_stage: active
+run_id: e58a637d587346379f5c48180f7997dd
+run_name: segresnet - fold4 - train
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755300245688
+status: 3
+tags: []
+user_id: hcy

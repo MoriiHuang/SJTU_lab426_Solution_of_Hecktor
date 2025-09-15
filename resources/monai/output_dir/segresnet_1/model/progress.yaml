@@ -1,0 +1,51 @@
+- {best_avg_dice_score_epoch: 9, best_avg_dice_score: 0.5934, save_time: 0.4797, time: 0.72
+    hr, train_time: 259.30s, validation_time: 36.86s, epoch_time: 296.43s, model: /home/SSD-2T-2023/hcy/HECKTOR2025/monai/output_dir/segresnet_1/model/model.pt,
+  date: '2025-08-13 09:13:43'}
+- {best_avg_dice_score_epoch: 19, best_avg_dice_score: 0.6470, save_time: 0.6160,
+  time: 1.45 hr, train_time: 258.28s, validation_time: 33.31s, epoch_time: 291.61s,
+  model: /home/SSD-2T-2023/hcy/HECKTOR2025/monai/output_dir/segresnet_1/model/model.pt,
+  date: '2025-08-13 09:57:34'}
+- {best_avg_dice_score_epoch: 29, best_avg_dice_score: 0.6712, save_time: 0.8283,
+  time: 2.19 hr, train_time: 256.99s, validation_time: 36.09s, epoch_time: 293.10s,
+  model: /home/SSD-2T-2023/hcy/HECKTOR2025/monai/output_dir/segresnet_1/model/model.pt,
+  date: '2025-08-13 10:41:46'}
+- {best_avg_dice_score_epoch: 39, best_avg_dice_score: 0.6787, save_time: 1.8493,
+  time: 2.92 hr, train_time: 268.55s, validation_time: 35.29s, epoch_time: 303.86s,
+  model: /home/SSD-2T-2023/hcy/HECKTOR2025/monai/output_dir/segresnet_1/model/model.pt,
+  date: '2025-08-13 11:25:45'}
+- {best_avg_dice_score_epoch: 59, best_avg_dice_score: 0.6866, save_time: 0.7250,
+  time: 4.09 hr, train_time: 145.00s, validation_time: 33.91s, epoch_time: 178.93s,
+  model: /home/SSD-2T-2023/hcy/HECKTOR2025/monai/output_dir/segresnet_1/model/model.pt,
+  date: '2025-08-13 12:35:46'}
+- {best_avg_dice_score_epoch: 98, best_avg_dice_score: 0.6950, save_time: 1.6116,
+  time: 7.57 hr, train_time: 280.17s, validation_time: 45.54s, epoch_time: 325.77s,
+  model: /home/SSD-2T-2023/hcy/HECKTOR2025/monai/output_dir/segresnet_1/model/model.pt,
+  date: '2025-08-13 16:05:00'}
+- {best_avg_dice_score_epoch: 125, best_avg_dice_score: 0.7023, save_time: 1.2579,
+  time: 9.79 hr, train_time: 294.73s, validation_time: 40.21s, epoch_time: 334.98s,
+  model: /home/SSD-2T-2023/hcy/HECKTOR2025/monai/output_dir/segresnet_1/model/model.pt,
+  date: '2025-08-13 18:17:59'}
+- {best_avg_dice_score_epoch: 143, best_avg_dice_score: 0.7023, save_time: 1.0348,
+  time: 11.24 hr, train_time: 296.36s, validation_time: 35.62s, epoch_time: 332.04s,
+  model: /home/SSD-2T-2023/hcy/HECKTOR2025/monai/output_dir/segresnet_1/model/model.pt,
+  date: '2025-08-13 19:44:58'}
+- {best_avg_dice_score_epoch: 152, best_avg_dice_score: 0.7090, save_time: 1.2093,
+  time: 11.98 hr, train_time: 290.08s, validation_time: 35.79s, epoch_time: 325.92s,
+  model: /home/SSD-2T-2023/hcy/HECKTOR2025/monai/output_dir/segresnet_1/model/model.pt,
+  date: '2025-08-13 20:29:19'}
+- {best_avg_dice_score_epoch: 184, best_avg_dice_score: 0.7119, save_time: 1.3241,
+  time: 14.64 hr, train_time: 292.67s, validation_time: 37.98s, epoch_time: 330.70s,
+  model: /home/SSD-2T-2023/hcy/HECKTOR2025/monai/output_dir/segresnet_1/model/model.pt,
+  date: '2025-08-13 23:08:55'}
+- {best_avg_dice_score_epoch: 228, best_avg_dice_score: 0.7142, save_time: 1.0390,
+  time: 18.30 hr, train_time: 294.16s, validation_time: 34.27s, epoch_time: 328.54s,
+  model: /home/SSD-2T-2023/hcy/HECKTOR2025/monai/output_dir/segresnet_1/model/model.pt,
+  date: '2025-08-14 02:48:56'}
+- {best_avg_dice_score_epoch: 234, best_avg_dice_score: 0.7153, save_time: 1.0009,
+  time: 18.80 hr, train_time: 293.01s, validation_time: 40.48s, epoch_time: 333.53s,
+  model: /home/SSD-2T-2023/hcy/HECKTOR2025/monai/output_dir/segresnet_1/model/model.pt,
+  date: '2025-08-14 03:18:51'}
+- {best_avg_dice_score_epoch: 252, best_avg_dice_score: 0.7161, save_time: 0.9790,
+  time: 20.30 hr, train_time: 292.32s, validation_time: 41.19s, epoch_time: 333.56s,
+  model: /home/SSD-2T-2023/hcy/HECKTOR2025/monai/output_dir/segresnet_1/model/model.pt,
+  date: '2025-08-14 04:48:32'}
